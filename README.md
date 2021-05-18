@@ -4,6 +4,8 @@ This is the first commercial product I ever helped make. The company and the cod
 
 ## About TouchBoard
 
+![TouchBoard GUI Image](https://github.com/roboticforest/touchboard-pro/blob/master/media/controls.png "TouchBoard UI")
+
 TouchBoard Pro was a cross-platform commercial desktop application I co-authored for people suffering from severe Carpal Tunnel Syndrome and other similar Repetitive Strain Injuries.
 
 It was an on-screen keyboard and clipboard manager. The program presented users with customizable keys that could type anything from a single letter, to whole pages of content. It could even simulate the press of any key on a physical keyboard (such as tab, escape, arrow keys, and so on) allowing it to do more than just type text.
